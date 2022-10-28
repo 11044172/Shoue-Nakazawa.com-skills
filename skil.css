@@ -1,0 +1,35 @@
+.volleyball_picture{
+    width: 500px;
+    height: 315px;
+}
+.cooking_picture{
+    width: 280px;
+    height: 373px;
+}
+.header_rogo{
+    height: 60px;
+    padding-left: 10px;
+    float: left;
+    
+    
+    
+  
+}
+.header_list li{
+   
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right:15px;
+    float: right;
+}
+.header_btn{
+    color: black;
+    text-decoration-line:none;
+}
+.wrapper-title{
+    writing-mode: vertical-rl;
+    margin: 100px;
+    margin-left: 50px;
+    float: left; 
+    font-size: 55px;
+}
